@@ -1,3 +1,3 @@
-module github.com/mitchellh/panicwrap
+module github.com/mohsenpashna/panicwrap
 
-go 1.13
+go 1.23.2
