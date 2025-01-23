@@ -17,6 +17,14 @@ problems with your application and _should_ crash the runtime. panicwrap
 is just meant as a way to monitor for panics. If you still think this is
 the worst idea ever, read the section below on why.
 
+Note: Since the main repository is archived, and there are a few long waited 
+PRs, this is a fork include those changes. These are the PRs:
+- https://github.com/mitchellh/panicwrap/pull/28 by https://github.com/brandonbloom
+- https://github.com/mitchellh/panicwrap/pull/27 by https://github.com/max-b
+- https://github.com/mitchellh/panicwrap/pull/20 by https://github.com/itizir
+
+
+
 ## Features
 
 * **SIMPLE!**
